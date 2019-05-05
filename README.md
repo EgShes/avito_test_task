@@ -9,7 +9,7 @@ Very fast training and and good perfomance (~ 0.86 on validation set);
 1. ELMO + CNN:
 Super slow inference because of ELMO calculation of word embeddings. Was trained for 3 epochs (~ 3 hours for every epoch) and stopped. Not the best performance (~ 0.82) and tremendously slow inference;
 1. ULMFiT:
-The best performance (~ 0.87) and good speed of inference.
+The best performance (~ 0.88) and good speed of inference.
 
 ## Test predictions
 Test predictions for test set are in results folder.
