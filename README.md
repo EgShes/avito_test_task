@@ -1,6 +1,8 @@
 # Solution of test task for summer internship in Avito
 The task was to train a model to predict Avito adverticement category by it's title, description and price.
 
+Best predictions must be ulmfit_test_prediction.csv. So if you need predictions for test from only one model, please use ulmfit_test_prediction.csv. I left other models and there predictions here as I think it would better describe my skills.
+
 ## Trained models
 1. Fasttext:
 Very fast training and and good perfomance (~ 0.86 on validation set);
